@@ -6,7 +6,7 @@ const friends = [
   '0x699df0090005A9eE1e380A1d6F7905B06ce44a96',
 ]
 
-const contractAddress = '0xc730DE4fAfF7EDC08f1C6F931F0817fd99FaE607'
+const contractAddress = '0x241f6fB168691Fc6ff8B2e941EbC2488067547dE'
 
 const main = async () => {
   const nft = await hre.ethers.getContractAt('KuicNFT', contractAddress)
