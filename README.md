@@ -1,15 +1,4 @@
-# Basic Sample Hardhat Project
+Token contract = https://rinkeby.etherscan.io/address/0xF1dC576c590Ae33d0c9091F8bB9c9D2780575369
+Nft Contract = https://rinkeby.etherscan.io/address/0xa453D747D900ea2d6208bA4aE1DE37D586e9324C
+ipfs Link = https://ipfs.io/ipfs/QmQ2szj8upDuauYYdUkRNdCad8m7Pc8d5fiiCBUkEiX28S
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
